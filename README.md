@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **vineethkm/vineethkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm vineeth and I'm an engineer. My interests are in:
+- Systems Programming
+- Operating Systems
+- Computer Architecture
+
+you can find me on linkedin
