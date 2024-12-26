@@ -1,4 +1,4 @@
-## Hi there 👋
+## heyya anon 👋
 <!--
 **vineethkm/vineethkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm vineeth and I'm an engineer. My interests are in:
-- Systems Programming
-- Operating Systems
-- Computer Architecture
+i'm vineeth.  
+an engineer, tinkerer, and eternal noob.  
 
-you can find me on linkedin
+currently geeking out over:  
+- systems programming  
+- operating systems  
+- computer architecture  
+
+(but hey, i'm just getting started.)  
+
+if you're up for collaborating or just wanna chat,  
+you can find me on [linkedin](https://www.linkedin.com/in/vineeth-krishna-m/)  
+
+also, check out my [website]().  
+it's a work in progress tho.
